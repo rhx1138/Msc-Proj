@@ -29,3 +29,4 @@ logGreeting(greetMe);
 logGreeting(function() {
 	console.log('Hello Tony!');
 });
+
